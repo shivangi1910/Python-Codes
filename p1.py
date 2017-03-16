@@ -1,3 +1,4 @@
+#Changes file names within the specified folder
 import os
 for dpath , dnames , fnames in os.walk('/home/shivangi/Shivi'):
 	for f in fnames:
